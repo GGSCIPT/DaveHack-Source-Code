@@ -1,5 +1,5 @@
-**DAVE HACK BLADE BALL**
-
+**(DAVE A. G) HACK BLADE BALL**
+         SOURCE CODE
 
 loadstring(game:HttpGet('https://raw.githubusercontent.com/DevTravDYT/dsaaswadfeszad/main/visual/BladeBall'))();
 local G2L = {};
